@@ -60,7 +60,7 @@ Please wait until cluster has been 100% provisioned.
 
 For troubleshooting and other admin purposes, we need to add firewall rule to allow SSH connection for admin users.
 Click the newly created cluster which will redirect us to overview page.
-Go to cluster `Firewall` tab, add add new rule for SSH connection by clicking `Add Firewall Rule` button.
+Go to cluster `Firewall` tab, add new rule for SSH connection by clicking `Add Firewall Rule` button.
 
 ![firewall-add](../img/csio/firewall-add.png)
 
